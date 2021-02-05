@@ -1,0 +1,151 @@
+Logistic Regression Accuracy: 0.7959183673469388
+Logistic Regression Precision: 0.7959183673469388
+Logistic Regression Recall: 0.7959183673469388
+Logistic Regression Count Vectorizor Report:
+                                 precision    recall  f1-score   support
+
+                    Application       0.60      0.33      0.43         9
+              Change Management       0.88      0.92      0.90        48
+                 Infrastructure       0.55      1.00      0.71        11
+                       Metadata       0.85      0.94      0.89        18
+        Recovery and Resiliency       1.00      0.50      0.67         6
+                 Resiliency MRA       0.00      0.00      0.00         1
+           Tech & Data Incident       0.00      0.00      0.00         1
+Technology Lifecycle Management       0.00      0.00      0.00         4
+
+                       accuracy                           0.80        98
+                      macro avg       0.48      0.46      0.45        98
+                   weighted avg       0.77      0.80      0.76        98
+
+Logistic Regression Accuracy: 0.6836734693877551
+Logistic Regression Precision: 0.6836734693877551
+Logistic Regression Recall: 0.6836734693877551
+Logistic Regression tf-idf Report:
+                                 precision    recall  f1-score   support
+
+                    Application       0.00      0.00      0.00         9
+              Change Management       0.62      1.00      0.77        48
+                 Infrastructure       0.83      0.45      0.59        11
+                       Metadata       0.93      0.78      0.85        18
+        Recovery and Resiliency       0.00      0.00      0.00         6
+                 Resiliency MRA       0.00      0.00      0.00         1
+           Tech & Data Incident       0.00      0.00      0.00         1
+Technology Lifecycle Management       0.00      0.00      0.00         4
+
+                       accuracy                           0.68        98
+                      macro avg       0.30      0.28      0.28        98
+                   weighted avg       0.57      0.68      0.60        98
+
+SVM Accuracy: 0.7653061224489796
+SVM Precision: 0.7653061224489796
+SVM Recall: 0.7653061224489796
+SVM Count Vectorizor Report:
+                                 precision    recall  f1-score   support
+
+                    Application       0.00      0.00      0.00         9
+              Change Management       0.84      0.96      0.89        48
+                 Infrastructure       0.58      1.00      0.73        11
+                       Metadata       0.75      1.00      0.86        18
+        Recovery and Resiliency       0.00      0.00      0.00         6
+                 Resiliency MRA       0.00      0.00      0.00         1
+           Tech & Data Incident       0.00      0.00      0.00         1
+Technology Lifecycle Management       0.00      0.00      0.00         4
+
+                       accuracy                           0.77        98
+                      macro avg       0.27      0.37      0.31        98
+                   weighted avg       0.61      0.77      0.68        98
+
+SVM Accuracy: 0.6632653061224489
+SVM Precision: 0.6632653061224489
+SVM Recall: 0.6632653061224489
+SVM tf-idf Report:
+                                 precision    recall  f1-score   support
+
+                    Application       0.00      0.00      0.00         9
+              Change Management       0.60      1.00      0.75        48
+                 Infrastructure       1.00      0.27      0.43        11
+                       Metadata       0.93      0.78      0.85        18
+        Recovery and Resiliency       0.00      0.00      0.00         6
+                 Resiliency MRA       0.00      0.00      0.00         1
+           Tech & Data Incident       0.00      0.00      0.00         1
+Technology Lifecycle Management       0.00      0.00      0.00         4
+
+                       accuracy                           0.66        98
+                      macro avg       0.32      0.26      0.25        98
+                   weighted avg       0.58      0.66      0.57        98
+
+Multinomial Naive Bayes Accuracy: 0.7857142857142857
+Multinomial Naive Bayes: 0.7857142857142857
+Multinomial Naive Bayes: 0.7857142857142857
+Multinomial Naive Bayes Count Vectorizor Report:
+                                 precision    recall  f1-score   support
+
+                    Application       0.00      0.00      0.00         9
+              Change Management       0.78      0.98      0.87        48
+                 Infrastructure       0.75      0.82      0.78        11
+                       Metadata       0.82      1.00      0.90        18
+        Recovery and Resiliency       1.00      0.50      0.67         6
+                 Resiliency MRA       0.00      0.00      0.00         1
+           Tech & Data Incident       0.00      0.00      0.00         1
+Technology Lifecycle Management       0.00      0.00      0.00         4
+
+                       accuracy                           0.79        98
+                      macro avg       0.42      0.41      0.40        98
+                   weighted avg       0.68      0.79      0.72        98
+
+Multinomial Naive Bayes Accuracy: 0.6326530612244898
+Multinomial Naive Bayes Precision: 0.6326530612244898
+Multinomial Naive Bayes Recall: 0.6326530612244898
+Multinomial Naive Bayes tf-idf Report:
+                                 precision    recall  f1-score   support
+
+                    Application       0.00      0.00      0.00         9
+              Change Management       0.58      1.00      0.73        48
+                 Infrastructure       1.00      0.09      0.17        11
+                       Metadata       0.93      0.72      0.81        18
+        Recovery and Resiliency       0.00      0.00      0.00         6
+                 Resiliency MRA       0.00      0.00      0.00         1
+           Tech & Data Incident       0.00      0.00      0.00         1
+Technology Lifecycle Management       0.00      0.00      0.00         4
+
+                       accuracy                           0.63        98
+                      macro avg       0.31      0.23      0.21        98
+                   weighted avg       0.57      0.63      0.53        98
+
+Random Forest Accuracy: 0.7653061224489796
+Random Forest: 0.7653061224489796
+Random Forest: 0.7653061224489796
+Random Forest Count Vectorizor Report:
+                                 precision    recall  f1-score   support
+
+                    Application       0.50      0.22      0.31         9
+              Change Management       0.80      0.92      0.85        48
+                 Infrastructure       0.56      0.91      0.69        11
+                       Metadata       0.89      0.94      0.92        18
+        Recovery and Resiliency       1.00      0.33      0.50         6
+                 Resiliency MRA       0.00      0.00      0.00         1
+           Tech & Data Incident       0.00      0.00      0.00         1
+Technology Lifecycle Management       0.00      0.00      0.00         4
+
+                       accuracy                           0.77        98
+                      macro avg       0.47      0.42      0.41        98
+                   weighted avg       0.73      0.77      0.72        98
+
+Random Forest Accuracy: 0.826530612244898
+Random Forest Precision: 0.826530612244898
+Random Forest Recall: 0.826530612244898
+Random Forest tf-idf Report:
+                                 precision    recall  f1-score   support
+
+                    Application       1.00      0.22      0.36         9
+              Change Management       0.84      0.98      0.90        48
+                 Infrastructure       0.67      0.91      0.77        11
+                       Metadata       0.86      1.00      0.92        18
+        Recovery and Resiliency       1.00      0.67      0.80         6
+                 Resiliency MRA       0.00      0.00      0.00         1
+           Tech & Data Incident       0.00      0.00      0.00         1
+Technology Lifecycle Management       0.00      0.00      0.00         4
+
+                       accuracy                           0.83        98
+                      macro avg       0.55      0.47      0.47        98
+                   weighted avg       0.80      0.83      0.78        98
